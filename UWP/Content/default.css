@@ -1,0 +1,10 @@
+﻿html,body{margin:0;padding:10px}
+
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('ms-appx-web:///Assets/hello.ttf')
+}
+
+body, p, h1, span {
+    font-family: 'MyWebFont';
+}
